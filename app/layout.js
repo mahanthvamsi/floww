@@ -8,7 +8,7 @@ import { checkUser } from "@/lib/checkUser";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Floww — Smart Finance Tracker",
+  title: "Floww - Smart Finance Tracker",
   description: "AI-powered personal finance management. Track expenses, scan receipts, and get intelligent insights — all in one place.",
 };
 

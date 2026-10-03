@@ -36,7 +36,7 @@ Floww is a full-stack personal finance management web application built with Nex
 | Auth | Clerk |
 | Database | PostgreSQL (Supabase) |
 | ORM | Prisma |
-| AI | Google Gemini, Groq |
+| AI | Grok |
 | Email | Resend + React Email |
 | Background Jobs | Inngest |
 | Security | Arcjet |
